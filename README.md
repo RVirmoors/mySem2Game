@@ -1,2 +1,3 @@
-# mySem2Game
+# this is my game
 
+some instructions here
